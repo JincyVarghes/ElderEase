@@ -1,6 +1,7 @@
 # 💙 ElderEase — Smart Medicine Care AI Agent
 
 > AI-powered medication management system for elderly people, built with Python, CrewAI and Gemini AI.
+🌐 **Live Demo:** [elderease-production-0310.up.railway.app](https://elderease-production-0310.up.railway.app)
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![CrewAI](https://img.shields.io/badge/CrewAI-MultiAgent-green)
