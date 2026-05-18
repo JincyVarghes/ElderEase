@@ -1,0 +1,24 @@
+# Secret keys - never upload these!
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Uploaded files
+uploads/
+
+# Virtual environment
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# PDF outputs
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
