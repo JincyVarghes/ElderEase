@@ -1,0 +1,7 @@
+flask
+crewai
+google-genai
+python-dotenv
+reportlab
+geopy
+werkzeug
